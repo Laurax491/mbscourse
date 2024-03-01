@@ -1,6 +1,6 @@
 # sharpen-your-skills
 
-![alt text] [Meme.png]
+![alt text] Chttps://github.com/Laurax491/mbscourse/blob/master/Meme.png)
 
 This repo is used to practice bash for the course Sharpen Your Skills.
 
